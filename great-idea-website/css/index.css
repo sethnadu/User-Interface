@@ -136,18 +136,6 @@ h1 {
 	width: 780px;
 }
 
-hr { 
-	display: block;
-    margin-before: 1.0em;
-    margin-after: 1.0em;
-    margin-start: auto;
-    margin-end: auto;
-    overflow: hidden;
-    border-style: inset;
-	border-width: 1px;
-	margin: 100px 0 20px 0;	
-	
-}
 
 hr {
 	width: auto;
